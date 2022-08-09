@@ -8,6 +8,7 @@ O sistema será desenvolvido para que o gerenciamento de ticket de um metro seja
 Eu como Cliente, gostaria de comprara um ticket de forma fácil e intuitiva.
 Eu como Cliente, gostaria de uma validação simples, rápida porém segura ao embarque.
 Eu como Cliente quero segurança dentro das estações 
+
 -Catraca: 
 
 -Interface de pagamento:
