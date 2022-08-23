@@ -5,9 +5,8 @@ Alex Ferreira Joaquim Junior & Bernnardo Pestana </br>
 O sistema será desenvolvido para que o gerenciamento de ticket de um metro seja gerado e validado de maneira que não ocorra fraudes, permitindo a segurança e integridade das estações, além de que os preços dos ticket sofra alterações de valores dependendo da estação e horário local.
 ### Estória: </br>
 -Cliente:</br>
-Eu como Cliente, gostaria de comprara um ticket de forma fácil e intuitiva.</br>
-Eu como Cliente, gostaria de uma validação simples, rápida porém segura ao embarque.</br>
-Eu como Cliente quero segurança dentro das estações.</br>
+Eu, Leonardo, ultilizo o metro aos finais de semana e preciso comprar o ticket na estação, com isso me deparo com a dificuldade de ter que comprar o mesmo, uma vez que é demorado e tenho que pegar filas, ao passar na validação dos porteiros demora um tempo consideravel mais uma vez, pois os mesmos tem que fazer um por um, além de ser algo manual, pode haver erros humanos, colocando a segurança minha e dos passageiros em risco.<br>
+Visando as questões acima, gostaria de uma compra de ticket com mais agilidade e uma validação mais rápida dos ticket como um parking digital, onde teria um código de barras ou um Qrcode para validar esse ticket, evitando erros e fazendo que a estação fosse mais segura.
 
 -Catraca: </br>
 Catraca faz a leitura do Ticket.</br>
