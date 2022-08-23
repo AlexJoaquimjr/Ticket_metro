@@ -18,3 +18,4 @@ Catraca garante que faça a leitura somente uma vez por ticket.</br>
 Cliente solitica um ticket informando estação estação de origem e de destino e o software calcula o valor.</br>
 Ticket gera automaticamente de acordo com a escolha do cliente.</br>
 Gera um código para que a catraca reconheça.</br>
+![Veterinaria](https://user-images.githubusercontent.com/54729180/186043711-27cc413a-fc21-41ff-8093-2cb76b5231a3.jpeg)
